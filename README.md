@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Jhonpar1/four-card-section)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://jhonpar1.github.io/four-card-section/)
 
 ## My process
 
