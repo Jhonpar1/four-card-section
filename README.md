@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/Jhonpar1/four-card-section)
 - Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 ## My process
@@ -41,7 +41,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Bootstrap v5 Grid
 - Mobile-first workflow
 
 
